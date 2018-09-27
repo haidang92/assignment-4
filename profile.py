@@ -33,7 +33,7 @@ tour.Description(IG.Tour.TEXT,tourDescription)
 request.addTour(tour)
 
 
-link = request.LAN("lan")
+link = request.LAN("lan") 
 
 for i in range(6):
   if i == 0:
